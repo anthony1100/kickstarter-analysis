@@ -24,4 +24,4 @@
 
 ### 2)	If you launch in December, chances of success to failure is about 1.1:1 and is the least favorable of any month. It appears this is recognize as December is also the lowest Theater month of the year.
 
-![Findings]()
+![Findings](https://user-images.githubusercontent.com/98625504/152282762-6dc8e887-22cf-439a-83f0-505a3ecd6336.png)
