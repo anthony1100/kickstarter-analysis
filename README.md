@@ -13,7 +13,7 @@
 ## b)	Challenges 
 #### 1) The big challenge was to attempt to do all this sorting and analysis via manual steps. This would have taken an infinte amount of time and likely include many errors because of the tidium. 
 
-#### b)	Getting the correct output was the main challenge. This would especially true had several “final results” were provided so we, the “Analyzers”, new where the end point of success was
+#### b)	Getting the correct output was the main challenge. This would especially true had several “final results” were provided so we, the “Analyzers”, knew where the end point of success was
 
 ![Findings](https://user-images.githubusercontent.com/98625504/152282762-6dc8e887-22cf-439a-83f0-505a3ecd6336.png)
 
