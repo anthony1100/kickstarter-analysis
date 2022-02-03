@@ -19,7 +19,7 @@
 ![Findings](https://user-images.githubusercontent.com/98625504/152282762-6dc8e887-22cf-439a-83f0-505a3ecd6336.png)
 
 
-# 3.	Results
+# 3.	Results 
 
 ### 1)	The best month for the Theater is May (111 Successful) to "Failed" (52 Failed) factor of over 2 to 1. June is a close second to May. 
 
