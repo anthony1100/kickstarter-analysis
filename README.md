@@ -15,7 +15,7 @@
 
 #### b)	Getting the correct output was the main challenge. This would especially true had several “final results” were provided so we, the “Analyzers”, new where the end point of success was
 
-![Pivot Table](https://user-images.githubusercontent.com/98625504/152282753-f1be0937-c650-4882-b2b3-4e46b664d77f.png)
+![Findings]()
 
 
 # 3.	Results
@@ -24,4 +24,5 @@
 
 ### 2)	If you launch in December, chances of success to failure is about 1.1:1 and is the least favorable of any month. It appears this is recognize as December is also the lowest Theater month of the year.
 
-![Findings](https://user-images.githubusercontent.com/98625504/152282762-6dc8e887-22cf-439a-83f0-505a3ecd6336.png)
+
+![Pivot Table](https://user-images.githubusercontent.com/98625504/152282753-f1be0937-c650-4882-b2b3-4e46b664d77f.png)
