@@ -15,7 +15,7 @@
 
 #### b)	Getting the correct output was the main challenge. This would especially true had several “final results” were provided so we, the “Analyzers”, new where the end point of success was
 
-![Findings]()
+![Findings](https://user-images.githubusercontent.com/98625504/152282762-6dc8e887-22cf-439a-83f0-505a3ecd6336.png)
 
 
 # 3.	Results
