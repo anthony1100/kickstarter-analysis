@@ -15,7 +15,7 @@
 
 #### b)	Getting the correct output was the main challenge. This would especially true had several “final results” were provided so we, the “Analyzers”, new where the end point of success was
 
-![Sample Shot of Pivot Table]()
+![Pivot Table](https://user-images.githubusercontent.com/98625504/152282753-f1be0937-c650-4882-b2b3-4e46b664d77f.png)
 
 
 # 3.	Results
